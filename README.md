@@ -15,13 +15,18 @@ sudo apt install python3-numpy
 
 
 ## Visualizer in terminal
-`visualizer_terminal.py`
+File: `visualizer_terminal.py`
 
 Used:
 - Python3
 - PyAudio
 - Numpy
 - Curses
+
+Usage:
+```
+python3 visualizer_terminal.py
+```
 
 Image:
 ![Audio visualizer in terminal](assets/images/visualizer_terminal.png)
