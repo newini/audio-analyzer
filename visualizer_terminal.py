@@ -1,6 +1,9 @@
 #!/bin/env python3
 # -*- coding: utf-8 -*-
 # visualizer_terminal.py
+"""
+Audio wave visualizer for terminal, powerd by PyAudio and Curses
+"""
 
 __author__      = "Eunchong Kim"
 __copyright__   = "Copyright 2021, Eunchong Kim"
